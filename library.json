@@ -1,0 +1,15 @@
+{
+  "name": "MultiFuncLite",
+  "keywords": "Mutli function Shield Lite Version",
+  "description": "Display and Buttons only.",
+  "repository":
+  {
+    "type": "",
+    "url": ""
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+  ]
+}

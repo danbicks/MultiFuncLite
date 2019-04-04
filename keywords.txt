@@ -1,0 +1,17 @@
+MultiFuncLite		KEYWORD1
+MFS				KEYWORD2
+initialize			KEYWORD2
+isrCallBack		KEYWORD2
+setTimer			KEYWORD2
+getTimer			KEYWORD2
+write				KEYWORD2
+wait				KEYWORD2
+blinkDisplay		KEYWORD2
+writeLeds			KEYWORD2
+blinkLeds			KEYWORD2
+setDisplayBrightness	KEYWORD2
+SetTicker			KEYWORD2
+SetScrollTime		KEYWORD2
+ScrollText			KEYWORD2
+EnableCallback		KEYWORD2
+attachCallback		KEYWORD2
